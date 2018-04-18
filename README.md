@@ -3,7 +3,7 @@
 
 This repo is supposed to serve as a repository for a music player that serves the need of power users. Who has access to multiple streaming services, and want a single place to handle all their music needs.
 
-My target is to create an application that supports
+My target is to create an application that supports<br />
 A. streaming music from any streaming service's url
   - [ ] Youtube
   - [ ] Spotify
